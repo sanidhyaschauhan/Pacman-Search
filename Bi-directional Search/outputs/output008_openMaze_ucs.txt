@@ -1,0 +1,4 @@
+[SearchAgent] using function ucs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 54 in 0.2 seconds
+Search nodes expanded: 682
